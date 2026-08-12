@@ -1,0 +1,4 @@
+interface:
+  display_name: "照片交互设计"
+  short_description: "将旅行照片做成摄影与设计交错的竖版海报"
+  default_prompt: "Use $photo-interactive-design to turn this photo into a 3:5 travel-editorial poster."
